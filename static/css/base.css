@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blueviolet;
+}
+.main{
+    margin: 20px;
+}
+header{
+    margin: 20px;
+}
+h1{
+    color: whitesmoke;   
+}
+a{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.myLogo{
+    margin: 10px;
+    width: 120px;
+    height: 100px;
+}
